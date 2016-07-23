@@ -13,3 +13,7 @@ body {
 .mainpanel {
   background: linear-gradient(to bottom, #D2D2D2, #EE932A);
 }
+
+.profhist {
+  background: linear-gradient(to bottom, #D2D2D2, #444444);
+}
