@@ -5,3 +5,11 @@ body {
   background-position: center center;
   background-repeat: repeat;
 }
+
+.header-name {
+  color: #FFFFFF;
+}
+
+.mainpanel {
+  background: linear-gradient(to bottom, #EE932A, #D2D2D2);
+}
